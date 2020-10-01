@@ -1,4 +1,4 @@
-# Shine Nelson <br> <h3>Linux System Administrator<h3>
+# Shine Nelson <br> <h3>Linux System Administrator</h3>
 
 ## Heading 2
 ### Heading 3
