@@ -27,6 +27,3 @@ Mar Baselios College of Engineering & Technology, Thiruvananthapuram, Kerala, In
 
 ##### Grade XII | AISSCE
 Marthoma Public School, Kochi, Kerala, India | 2010
-
-##### Grade X | AISSE
-The Indian School, Bahrain | 2008
