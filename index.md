@@ -7,18 +7,14 @@ Working on GNU/Linux servers since 2012. Well versed with GNU/Linux, automation 
 GNU/Linux System Administration, git, Amazon Web Services ( AWS ), Google Cloud Platform ( GCP ), Terraform, Ansible, Jenkins, shell scripting, python scripting
 
 ## Relevant Work Experience
-#### Truecaller International LLP
-##### Infrastructure Engineer
+#### Truecaller International LLP | Infrastructure Engineer
 July 2018 - March 2020
-###### Truecaller Pay
 * Set up infrastructure, monitoring and alerting
 * Involved with security and infrastructure audit
 * Involved with migration of infrastructure from AWS to GCP
 
-#### Backwater Technologies Pvt Ltd
-##### DevOps Engineer
+#### Backwater Technologies Private Limited | DevOps Engineer
 October 2015 - July 2018
-###### Chillr
 * Setup Build Pipelines with Jenkins and Bitbucket Pipelines
 * Migrated infrastructure from Netmagic cloud to AWS
 * Led multiple security and infrastructure audits
