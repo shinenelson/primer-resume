@@ -3,11 +3,9 @@
 ### Summary
 Working on GNU/Linux servers since 2012. Well versed with GNU/Linux, automation and monitoring tools ( for GNU/Linux ). Terminal freak, open-source lover, free software zealot.
 
----
 ### Relevant Skills
 GNU/Linux System Administration, git, Amazon Web Services ( AWS ), Google Cloud Platform ( GCP ), Terraform, Ansible, Jenkins, shell scripting, python scripting
 
----
 ### Relevant Work Experience
 #### Truecaller International LLP | Infrastructure Engineer
 July 2018 - March 2020
@@ -22,7 +20,6 @@ October 2015 - July 2018
 * Led multiple security and infrastructure audits
 * Created various policy documentation
 
----
 ### Education
 ##### Under-graduation | Bachelor of Technology ( B.Tech )
 Dropped-out after course completion ( 2015 ) <br />
