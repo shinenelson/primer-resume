@@ -4,17 +4,7 @@
 Working on GNU/Linux servers since 2012. Well versed with GNU/Linux, automation and monitoring tools ( for GNU/Linux ). Terminal freak, open-source lover, free software zealot.
 
 ## Relevant Skills
-#### General
-GNU/Linux System Administration, git
-
-#### Cloud Services
-Amazon Web Services ( AWS ), Google Cloud Platform ( GCP ), DigialOcean, Scaleway, Hetzner
-
-#### Automation & Build Systems
-Terraform, Ansible, Jenkins
-
-#### Scripting
-shell ( POSIX-compliant ), python
+GNU/Linux System Administration, git, Amazon Web Services ( AWS ), Google Cloud Platform ( GCP ), Terraform, Ansible, Jenkins, shell scripting, python scripting
 
 ## Relevant Work Experience
 #### Truecaller International LLP
